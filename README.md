@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/YouTube-iEveryoneChannel-FFD700?style=for-the-badge" alt="YouTube iEveryoneChannel" />
   </a>
   <a href="https://www.linkedin.com/in/juan-ferrera-sala-6264401a7/details/projects/">
-    <img src="https://img.shields.io/badge/Proyectos-LinkedIn-FFD700?style=for-the-badge" alt="Projects on LinkedIn" />
+    <img src="https://img.shields.io/badge/Projects-LinkedIn-FFD700?style=for-the-badge" alt="Projects on LinkedIn" />
   </a>
   <a href="https://www.linkedin.com/in/juan-ferrera-sala-6264401a7/">
-    <img src="https://img.shields.io/badge/Contacto-LinkedIn-FFD700?style=for-the-badge" alt="Contact LinkedIn" />
+    <img src="https://img.shields.io/badge/Contact-LinkedIn-FFD700?style=for-the-badge" alt="Contact LinkedIn" />
   </a>
 </p>
 

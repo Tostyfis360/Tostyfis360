@@ -1,3 +1,6 @@
+<!-- Nombre -->
+<h1 align="center">⚡ Juan Ferrera Sala ⚡</h1>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://yt3.googleusercontent.com/MVZXZfuvR11pQc31jaSPNwoD2aZoyKDhtqbZ-W7jNNk-xc1bmc5-3zwnca2w78wUNA92V6kEgg=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Cyberpunk Banner" width="100%" />
@@ -6,13 +9,13 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://www.arrobaeveryone.com">
-    <img src="https://img.shields.io/badge/Web-arrobaeveryone.com-ff00ff?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Web" />
+    <img src="https://img.shields.io/badge/Web-arrobaeveryone.com-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=black" alt="Web" />
   </a>
   <a href="https://www.linkedin.com/in/juan-ferrera-sala-6264401a7/details/projects/">
-    <img src="https://img.shields.io/badge/Proyectos-LinkedIn-00ffee?style=for-the-badge&logo=linkedin&logoColor=white" alt="Proyectos en LinkedIn" />
+    <img src="https://img.shields.io/badge/Proyectos-LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black" alt="Proyectos en LinkedIn" />
   </a>
   <a href="https://www.linkedin.com/in/juan-ferrera-sala-6264401a7/">
-    <img src="https://img.shields.io/badge/Contacto-LinkedIn-00ffaa?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contacto LinkedIn" />
+    <img src="https://img.shields.io/badge/Contacto-LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black" alt="Contacto LinkedIn" />
   </a>
 </p>
 

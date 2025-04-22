@@ -9,10 +9,13 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://www.arrobaeveryone.com">
-    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEiBtPVwNFwYw/company-logo_100_100/company-logo_100_100/0/1714743846587/arrobaeveryone_logo?e=1750896000&v=beta&t=0Ft2-GejlLHrMoBUpf-El4chRWmmblU7diN4-ZTC7FM" alt="Web" />
   </a>
   <a href="https://www.youtube.com/@iEveryoneChannel">
     <img src="https://img.shields.io/badge/YouTube-iEveryoneChannel-FFD700?style=for-the-badge&logo=youtube&logoColor=black" alt="YouTube iEveryoneChannel" />
+  </a>
+    <a href="https://www.linkedin.com/in/juan-ferrera-sala-6264401a7/details/projects/">
+  </a>
+  <a href="https://www.linkedin.com/in/juan-ferrera-sala-6264401a7/">
   </a>
 </p>
 
